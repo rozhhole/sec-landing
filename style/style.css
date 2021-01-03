@@ -59,6 +59,12 @@ hr {
   font-size: 13px;
   font-weight: 700;
 }
+.menu__item:hover{
+  
+  color: #e84545;
+ 
+  
+}
 
 /* favorite section */
 
